@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: private-actions-checkout
-  description: GitHub Action to make custom private actions easily available to any workflow
+  description: "GitHub Action to make custom private actions easily available to any workflow"
   annotations:
     github.com/project-slug: submittable/private-actions-checkout
   tags: []
