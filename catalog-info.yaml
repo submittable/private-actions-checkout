@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: private-actions-checkout
   description: "GitHub Action to make custom private actions easily available to any workflow"
-  annotations: 
+  annotations:
     github.com/project-slug: submittable/private-actions-checkout
     pagerduty.com/integration-key: 0cb1d91abacd4101c030087b3b27df2e
     pagerduty.com/service-id: P6NGV0P
